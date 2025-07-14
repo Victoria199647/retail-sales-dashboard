@@ -31,11 +31,11 @@ Product performance insights
 
 ## How to Use
 
-Download: Click on Retail_Sales_Dashboard.xlsx and download the file
-Open: Open with Microsoft Excel (2016 or later recommended)
-Enable Content: If prompted, enable macros and content for full functionality
-Interact: Use the slicers on the left side to filter data
-Analyze: Observe how all charts update dynamically based on your selections
+Download: Click on Retail_Sales_Dashboard.xlsx and download the file  
+Open: Open with Microsoft Excel  
+Enable Content: If prompted, enable macros and content for full functionality  
+Interact: Use the slicers on the left side to filter data  
+Analyze: Observe how all charts update dynamically based on your selections  
 
 ## Dashboard Components
 ### 1. Sales by Gender and Age Group
